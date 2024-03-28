@@ -73,3 +73,9 @@ These are all the computers as 24/7 servers clusterized with Proxmox:
 - 2x Dell Optiplex 7040 i7 6700T, 24GB RAM 2133Mhz
 - 2x Dell Optiplex 7050 i5 7500T, 1x 16GB RAM 2400Mhz, 1x 32GB RAM 2400Mhz
 - 1x Beelink Mini-S Intel N5095A, 8GB RAM 2400Mhz
+
+<details>
+  <summary>Homelab photo</summary>
+
+  ![](images/homelab.jpg)
+</details>
