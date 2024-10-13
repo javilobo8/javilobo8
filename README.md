@@ -70,12 +70,14 @@ These are all the computers as 24/7 servers clusterized with Proxmox:
 
 - ASUS Z390A, i9 9900k, 64GB RAM 3200Mhz, 500GB NVMe, 2x 4TB SSD, 8TB HDD
 - 1x Dell Optiplex 3050 i5 6500T, 16GB RAM 2400Mhz
-- 2x Dell Optiplex 7040 i7 6700T, 24GB RAM 2133Mhz
-- 2x Dell Optiplex 7050 i5 7500T, 1x 16GB RAM 2400Mhz, 1x 32GB RAM 2400Mhz
-- <del>1x Beelink Mini-S Intel N5095A, 8GB RAM 2400Mhz</del> **DEAD**
-
+- 2x Dell Optiplex 7040 i7 6700T, 32GB RAM 2133Mhz
+- 2x Dell Optiplex 7050 i5 7500T, 16GB RAM 2400Mhz
+- 1x Dell PowerEdge R730xd 26SFF 2x Intel Xeon E5-2650v4, 160GB RAM 2133Mhz, H730p Mini
+- <del>1x Beelink Mini-S Intel N5095A, 8GB RAM 2400Mhz</del> **DEAD** 💀
+- <del>1x Beelink U59 Pro Mini-PC Intel N5105, 16 GB DDR4 2400Mhz</del> **DEAD** 💀
+  
 <details>
   <summary>Homelab photo</summary>
 
-  ![](images/homelab.jpg)
+  ![](images/homelab2.jpg)
 </details>
