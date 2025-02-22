@@ -41,7 +41,7 @@ I also have some personal projects that I love working on. The main one is LoboB
 
 **Se Sei Forte Sali**, a web application for an amateur tournament about League Of Legends. The website shows the different league leaderboards, the matches, and the players' stats.
 
-### [seseifortesali.com](https://seseifortesali.com)
+### [seseifortesali.com (down)](https://seseifortesali.com)
 
 [![](logos/seseifortesali-logo.png)](https://seseifortesali.com)
 
