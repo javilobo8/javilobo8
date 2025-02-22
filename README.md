@@ -2,11 +2,14 @@
 
 I'm a software developer who loves web development, devops, and cloud computing. I'm always looking for new challenges and learning new things.
 
-Currently working fulltime Bipi as Backend Developer
+Currently working at [embat.io](https://embat.io) as Fullstack Developer
 
-[bipicar.com](https://www.bipicar.com)
+[![](logos/embat-logo.png)](https://embat.io)
+
+Previously at:
 
 [![](logos/bipi-logo.png)](https://www.bipicar.com)
+[![](logos/fintonic-logo.png)](https://www.fintonic.com)
 
 ## Experience
 
@@ -16,13 +19,20 @@ Professionally, I've been working since 2016 but I always loved doing things wit
 
 I also have some personal projects that I love working on. The main one is LoboBot, a web application that allows you create some Leage of Legends widgets for your stream.
 
-[lobobot.com](https://lobobot.com)
+### [lobobot.com](https://lobobot.com)
 
 [![](logos/lobobot-logo.png)](https://lobobot.com)
 
+### [buffit.lol](https://buffit.lol)
+
+[![](logos/buffitlol-logo.png)](https://buffit.lol)
+
+### [javilobo8.com](https://javilobo8.com)
+
+
 ### Public npm packages
 
-* [@javilobo8/riot-api](https://github.com/javilobo8/riot-ap) - A Node.js wrapper for the Riot Games API.
+* [@javilobo8/riot-api](https://github.com/javilobo8/riot-api) - A Node.js wrapper for the Riot Games API.
 * [@javilobo8/zoso](https://github.com/javilobo8/zoso) - An encryption/decryption utitlity for Node.js for manage configuration files with sensitive data.
 * [@javilobo8/zoso-loader](https://github.com/javilobo8/zoso-loader) - A loader for configurations rendered with `@javilobo8/zoso` for Node.js.
 
@@ -31,7 +41,7 @@ I also have some personal projects that I love working on. The main one is LoboB
 
 **Se Sei Forte Sali**, a web application for an amateur tournament about League Of Legends. The website shows the different league leaderboards, the matches, and the players' stats.
 
-[seseifortesali.com](https://seseifortesali.com)
+### [seseifortesali.com](https://seseifortesali.com)
 
 [![](logos/seseifortesali-logo.png)](https://seseifortesali.com)
 
@@ -68,7 +78,8 @@ I also have a homelab where I play with some technologies and services. I have t
 
 These are all the computers as 24/7 servers clusterized with Proxmox:
 
-- ASUS Z390A, i9 9900k, 64GB RAM 3200Mhz, 500GB NVMe, 2x 4TB SSD, 8TB HDD
+- ASUS Z390A, i9 9900k, 64GB RAM 3200Mhz
+- Gigabyte B760M, i5 12400, 32GB RAM 3200Mhz
 - 1x Dell Optiplex 3050 i5 6500T, 16GB RAM 2400Mhz
 - 2x Dell Optiplex 7040 i7 6700T, 32GB RAM 2133Mhz
 - 2x Dell Optiplex 7050 i5 7500T, 16GB RAM 2400Mhz
@@ -77,7 +88,7 @@ These are all the computers as 24/7 servers clusterized with Proxmox:
 - <del>1x Beelink U59 Pro Mini-PC Intel N5105, 16 GB DDR4 2400Mhz</del> **DEAD** 💀
   
 <details>
-  <summary>Homelab photo</summary>
+  <summary>Homelab photo 👀</summary>
 
-  ![](images/homelab2.jpg)
+  ![](images/homelab3.jpg)
 </details>
