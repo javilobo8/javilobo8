@@ -90,5 +90,5 @@ These are all the computers as 24/7 servers clusterized with Proxmox:
 <details>
   <summary>Homelab photo 👀</summary>
 
-  ![](images/homelab3.jpg)
+  ![](images/homelab3.jpeg)
 </details>
