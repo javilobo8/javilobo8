@@ -80,7 +80,7 @@ Desktops 🖥️
 - ASUS B760-I ROG Strix, 32GB RAM 5600MHz DDR4, Gigabyte 3080ti OC 12GB
 - Mac Mini M4 16GB RAM, 256GB SSD
 
-Laptops
+Laptops 💻
 - Lenovo T480 14" i5 8350U 1.7 GHz, 16GB RAM 2400MHz DDR4
 
 Servers 🗄️
