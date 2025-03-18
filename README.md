@@ -76,16 +76,25 @@ I also have a homelab where I play with some technologies and services. I have t
 
 ### Stack
 
-These are all the computers as 24/7 servers clusterized with Proxmox:
+Desktops 🖥️
+- ASUS B760-I ROG Strix, 32GB RAM 5600MHz DDR4, Gigabyte 3080ti OC 12GB
+- Mac Mini M4 16GB RAM, 256GB SSD
 
-- ASUS Z390A, i9 9900k, 64GB RAM 3200Mhz
-- Gigabyte B760M, i5 12400, 32GB RAM 3200Mhz
-- 1x Dell Optiplex 3050 i5 6500T, 16GB RAM 2400Mhz
-- 2x Dell Optiplex 7040 i7 6700T, 32GB RAM 2133Mhz
-- 2x Dell Optiplex 7050 i5 7500T, 16GB RAM 2400Mhz
-- 1x Dell PowerEdge R730xd 26SFF 2x Intel Xeon E5-2650v4, 128GB RAM 2133Mhz, H730p Mini
-- <del>1x Beelink Mini-S Intel N5095A, 8GB RAM 2400Mhz</del> **DEAD** 💀
-- <del>1x Beelink U59 Pro Mini-PC Intel N5105, 16 GB DDR4 2400Mhz</del> **DEAD** 💀
+Laptops
+- Lenovo T480 14" i5 8350U 1.7 GHz, 16GB RAM 2400MHz DDR4
+
+Servers 🗄️
+- Dell PowerEdge R730xd 26SFF 2x Intel Xeon E5-2650v4, 128GB RAM 2133MHz DDR4, H730p Mini
+- ASUS Z390A, i9 9900K, 64GB RAM 3200MHz DDR4, Gigabyte 1080ti 11GB, 8TB HDD, 1TB SSD
+- Gigabyte B760M, i5 12400, 32GB RAM 3200MHz DDR4
+- Gigabyte B760-PLUS, i5 13400F, 32GB RAM 5600MHz DDR5, No GPU (off)
+- Dell Optiplex 3050 i5 6500T, 16GB RAM 2400MHz DDR4
+- 2x Dell Optiplex 7040 i7 6700T, 32GB RAM 2133MHz DDR4
+- 2x Dell Optiplex 7050 i5 7500T, 16GB RAM 2400MHz DDR4
+
+**DEAD** 💀
+- <del>1x Beelink Mini-S Intel N5095A, 8GB RAM 2400MHz DDR4</del> **DEAD** 💀
+- <del>1x Beelink U59 Pro Mini-PC Intel N5105, 16GB RAM 2400MHz DDR4</del> **DEAD** 💀
   
 <details>
   <summary>Homelab photo 👀</summary>
